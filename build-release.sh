@@ -12,12 +12,11 @@
 ########################################################################################################################
 
 # location for the build ROOT folder
-export BUILD_ROOT=/build/ontop
+export BUILD_ROOT=/home/kdbms/ontop
 
 # location for the build dependencies home 
-export ONTOP_DEP_HOME=/build/dependencies
-
-#------------------------------------------# 
+export ONTOP_DEP_HOME=/home/kdbms/ontop/dep
+#-----------------------------------------# 
 # DO NOT touch the following command lines #
 #------------------------------------------#
 
