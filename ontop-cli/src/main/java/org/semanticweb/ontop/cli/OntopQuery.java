@@ -108,6 +108,7 @@ public class OntopQuery extends OntopReasoningCommandBase {
             }
             printResult(out, result);
 
+          //System.out.println("*"+query);
 
         } catch (OBDAException e1) {
             e1.printStackTrace();
